@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <News App />
+    < App />
   </React.StrictMode>,
   document.getElementById('root')
 );
